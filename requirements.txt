@@ -1,0 +1,5 @@
+botbuilder-core
+aiohttp
+azure-ai-language-conversations
+azure-cosmos
+azure-core
